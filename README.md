@@ -49,10 +49,9 @@ Login
     
 
 User Profile
+
 <img width="305" alt="Screen Shot 2023-01-21 at 4 04 44 PM" src="https://user-images.githubusercontent.com/99362878/214109397-dc73cbcc-05a5-4ba4-ac03-1dc8d80caf2f.png">
-
 <img width="305" alt="Screen Shot 2023-01-21 at 4 05 26 PM" src="https://user-images.githubusercontent.com/99362878/214109447-dbbd775c-0da5-41ba-919f-a8f7afe08153.png">
-
 <img width="306" alt="Screen Shot 2023-01-21 at 4 05 45 PM" src="https://user-images.githubusercontent.com/99362878/214109493-66ad775e-051f-47f5-a8e0-9bb690ecfe2a.png">
 
 - Main page showing the details of the signed-in user
